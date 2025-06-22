@@ -43,7 +43,7 @@ Configuration
 Key parameters can be edited in the notebook header:
 	•	CHUNK_SIZE = 4 | 5 | 6 | 10
 	•	TOP_K = 3
-	•	RETRIEVAL_METHOD = 'bm25' | 'vector' | 'rerank'
+	•	RETRIEVAL_METHOD = 'bm25' | 'vector' | 'rerank2'
 	•	QA_FORMAT = 'open-ended' | 'multiple-choice'
 
 Usage
