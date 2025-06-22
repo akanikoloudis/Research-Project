@@ -91,6 +91,3 @@ If you use this work, please cite the accompanying thesis:
 
 Nikoloudis, A. A. (2025). A Question-Answering Pipeline for Congressional Hearings using Retrieval-Augmented Generation. TU Delft.
 
-⸻
-
-For questions or contributions, contact: Alexandros Aristomenis Nikoloudis | TU Delft
